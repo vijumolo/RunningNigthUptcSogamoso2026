@@ -4,6 +4,11 @@ Aplicación web responsiva para consultar los resultados oficiales de la carrera
 
 Funciona sin internet, sin instalación y sin servidor: solo abre `index.html` en el navegador.
 
+## En línea
+
+- **Sitio publicado:** https://running-night-uptc-sogamoso-2026.netlify.app
+- **Repositorio:** https://github.com/vijumolo/RunningNigthUptcSogamoso2026
+
 ---
 
 ## Cómo abrirla

@@ -9,6 +9,8 @@ Funciona sin internet, sin instalación y sin servidor: solo abre `index.html` e
 - **Sitio publicado:** https://running-night-uptc-sogamoso-2026.netlify.app
 - **Repositorio:** https://github.com/vijumolo/RunningNigthUptcSogamoso2026
 
+El sitio se reconstruye y publica automáticamente con cada push a la rama `main`.
+
 ---
 
 ## Cómo abrirla
